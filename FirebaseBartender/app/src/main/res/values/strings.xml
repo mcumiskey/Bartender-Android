@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bartender</string>
+    <string name="search">Search</string>
+    <string name="create_new">Create New Cocktail</string>
+    <string name="update_existing">Update Cocktail</string>
+    <string name="name">Enter Name</string>
+    <string name="ingredients">Enter Ingredients</string>
+    <string name="directions">Enter Directions</string>
+    <string name="save">Save Cocktail</string>
+
+</resources>
